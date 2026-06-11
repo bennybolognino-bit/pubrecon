@@ -1,0 +1,7 @@
+﻿BB-convert-electron/node_modules/
+BB-convert-electron/release/
+BB-convert-electron/logs/
+BB-convert-electron/out/
+BB-convert-electron/bb-convert-config.json
+BB-convert-electron/build-electron.log
+*.log
